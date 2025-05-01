@@ -1,4 +1,6 @@
 # Welcome to Impala
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmenonprasad1%2Fimpala.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmenonprasad1%2Fimpala?ref=badge_shield)
+
 
 Lightning-fast, distributed [SQL](https://en.wikipedia.org/wiki/SQL) queries for petabytes
 of data stored in Apache Hadoop clusters.
@@ -67,3 +69,7 @@ to get started.
 
 [Detailed build notes](README-build.md) has some detailed information on the project
 layout and build.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmenonprasad1%2Fimpala.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmenonprasad1%2Fimpala?ref=badge_large)
